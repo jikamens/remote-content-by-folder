@@ -1,3 +1,5 @@
+[**This repo is obsolete.** Please use https://github.com/Extended-Thunder/remote-content-by-folder/.]
+
 "Remote Content By Folder" Thunderbird / SeaMonkey add-on
 =========================================================
 
